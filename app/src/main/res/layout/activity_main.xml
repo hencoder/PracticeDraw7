@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="#f8f8f8"
-    tools:context="com.hencoder.hencoderpracticedraw6.MainActivity">
+    tools:context="com.hencoder.hencoderpracticedraw7.MainActivity">
 
     <android.support.design.widget.TabLayout
         android:id="@+id/tabLayout"
