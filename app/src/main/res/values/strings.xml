@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HenCoder 绘制 7</string>
+    <string name="title_argb_evaluator">ArgbEvaluator</string>
+    <string name="title_hsv_evaluator">HsvEvaluator</string>
+    <string name="title_of_object">ofObject()</string>
+    <string name="title_property_values_holder">PropertyValuesHolder</string>
+    <string name="title_animator_set">AnimatorSet</string>
+    <string name="title_keyframe">PropertyValuesHolder.ofKeyframe()</string>
+    <string name="animate">animate</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.hencoder.hencoderpracticedraw6.sample.sample06.Sample06KeyframeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2B2B2B">
+
+    <com.hencoder.hencoderpracticedraw6.sample.sample06.Sample06KeyframeView
+        android:id="@+id/objectAnimatorView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"/>
+
+    <Button
+        android:id="@+id/animateBt"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="8dp"
+        android:textSize="16sp"
+        android:text="@string/animate"/>
+
+</com.hencoder.hencoderpracticedraw6.sample.sample06.Sample06KeyframeLayout>
