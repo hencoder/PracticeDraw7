@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.hencoder.hencoderpracticedraw6.practice.Practice04PropertyValuesHolderLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<com.hencoder.hencoderpracticedraw7.practice.Practice04PropertyValuesHolderLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#2B2B2B">
@@ -22,4 +22,4 @@
         android:textSize="16sp"
         android:text="@string/animate"/>
 
-</com.hencoder.hencoderpracticedraw6.practice.Practice04PropertyValuesHolderLayout>
+</com.hencoder.hencoderpracticedraw7.practice.Practice04PropertyValuesHolderLayout>
