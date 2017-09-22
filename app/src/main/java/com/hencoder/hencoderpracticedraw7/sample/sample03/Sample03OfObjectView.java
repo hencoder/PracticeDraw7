@@ -50,12 +50,12 @@ public class Sample03OfObjectView extends View {
         super.onDraw(canvas);
 
         float innerPaddingLeft = RADIUS * 1;
-        float innterPaddingRight = RADIUS * 1;
-        float innterPaddingTop = RADIUS * 1;
-        float innterPaddingBottom = RADIUS * 3;
-        float width = getWidth() - innerPaddingLeft - innterPaddingRight - RADIUS * 2;
-        float height = getHeight() - innterPaddingTop - innterPaddingBottom - RADIUS * 2;
+        float innerPaddingRight = RADIUS * 1;
+        float innerPaddingTop = RADIUS * 1;
+        float innerPaddingBottom = RADIUS * 3;
+        float width = getWidth() - innerPaddingLeft - innerPaddingRight - RADIUS * 2;
+        float height = getHeight() - innerPaddingTop - innerPaddingBottom - RADIUS * 2;
 
-        canvas.drawCircle(innerPaddingLeft + RADIUS + width * position.x, innterPaddingTop + RADIUS + height * position.y, RADIUS, paint);
+        canvas.drawCircle(innerPaddingLeft + RADIUS + width * position.x, innerPaddingTop + RADIUS + height * position.y, RADIUS, paint);
     }
 }
